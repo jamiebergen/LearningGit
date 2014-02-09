@@ -1,1 +1,1 @@
-Text added to readme file.  
+Now I am changing the contents of the readme.txt file.
